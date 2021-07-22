@@ -104,6 +104,11 @@ p {
   border-top: solid 5px var(--blue);
 }
 
+.attribution {
+  margin: 0 auto;
+  padding: 7em 0;
+}
+
 @media (min-width: 500px) {
   .hero__title,
   .hero__sub-title {
